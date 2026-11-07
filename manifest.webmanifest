@@ -22,5 +22,10 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ]
+  ],
+  "id": "/-khotati-ma-abtali/?app=khotati-standalone-2026",
+  "display_override": [
+    "standalone"
+  ],
+  "prefer_related_applications": false
 }
